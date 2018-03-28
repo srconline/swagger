@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: swagger
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: SUBHASHREE
+Implementation-Vendor-Id: com.swagger
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/swagger/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
